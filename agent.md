@@ -309,12 +309,12 @@ mkdir -p src/part2/chapter1
 
 ### 已完成
 - ✅ 第一部分第一章（名词）：`src/part1/chapter1/noun_exercises.md`
+- ✅ 第一部分第二章（代词）：`src/part1/chapter2/pronoun_exercises.md`
+- ✅ 第一部分第三章（冠词）：`src/part1/chapter3/article_exercises.md`
+- ✅ 第一部分第四章（数词）：`src/part1/chapter4/numeral_exercises.md`
+- ✅ 第一部分第五章（动词）：`src/part1/chapter5/verb_exercises.md`
 
 ### 待完成
-- ⏳ 第一部分第二章（代词）
-- ⏳ 第一部分第三章（冠词）
-- ⏳ 第一部分第四章（数词）
-- ⏳ 第一部分第五章（动词）
 - ⏳ 第一部分第六章（形容词）
 - ⏳ 第一部分第七章（副词）
 - ⏳ 第一部分第八章（介词）
