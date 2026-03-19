@@ -314,9 +314,9 @@ mkdir -p src/part2/chapter1
 - ✅ 第一部分第四章（数词）：`src/part1/chapter4/numeral_exercises.md`
 - ✅ 第一部分第五章（动词）：`src/part1/chapter5/verb_exercises.md`
 - ✅ 第一部分第六章（形容词）：`src/part1/chapter6/adjective_exercises.md`
+- ✅ 第一部分第七章（副词）：`src/part1/chapter7/adverb_exercises.md`
 
 ### 待完成
-- ⏳ 第一部分第七章（副词）
 - ⏳ 第一部分第八章（介词）
 - ⏳ 第一部分第九章（连词）
 - ⏳ 第一部分第十章（感叹词）
